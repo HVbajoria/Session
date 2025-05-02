@@ -34,3 +34,5 @@ def ask_riddle():
         print(sarcastic_response)
 
 ask_riddle()
+
+print("Amazing New!")
